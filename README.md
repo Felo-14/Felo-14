@@ -51,8 +51,7 @@
 
 ### 📊 Github Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
-
+![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixMwendwa&show_icons=true&theme=radical)
 <br/>
 
 
@@ -77,10 +76,3 @@
   </a> 
 
 </p>
-
-
-## 📫 Let’s Connect
-
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: felixmwendwa014@gmail.com
