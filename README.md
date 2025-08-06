@@ -55,12 +55,12 @@
 
 
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=solarized-dark)](https://github.com/Felo-14/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=highcontrast)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=solarized-dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=highcontrast)
 
 
 ### Get in touch
