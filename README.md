@@ -15,12 +15,10 @@
     width="24px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+<a href="[![email]](mailto:felixmwendwa014@gmail.com) ">
   <img align="left" alt="Felix's Email"
     width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
-</a>
-
-[![email](https://img.icons8.com/?size=25&id=mXcvtsj8e1Ug&format=png&color=000000)](mailto:felixmwendwa014@gmail.com) 
+</a> 
 
 
 <br/>
