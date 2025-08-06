@@ -20,7 +20,7 @@
     width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
 </a>
 
-[![email](https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000)](mailto:felixmwendwa014@gmail.com) 
+[![email](https://img.icons8.com/?size=30&id=mXcvtsj8e1Ug&format=png&color=000000)](mailto:felixmwendwa014@gmail.com) 
 
 
 <br/>
