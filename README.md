@@ -51,28 +51,34 @@
 
 ### 📊 Github Stats
 
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixMwendwa&show_icons=true&theme=radical)
+
+![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark)
+
 <br/>
 
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=onedark)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
+
+
+
 ### 📫 Let’s Connect
 <p>
   <a href="https://www.linkedin.com/in/felixmwendwa/">
   <img align="left" alt="Felix's LinkedIn"
-    width="50px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+    width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
   </a>
 
   <a href="https://github.com/Felo-14">
   <img align="left" alt="Felix's GitHub"
-    width="50px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+    width="40px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
   </a>
 
   <a href="mailto:felixmwendwa014@gmail.com">
   <img align="left" alt="Felix's Email"
-    width="50px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+    width="40px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
   </a> 
 
 </p>
