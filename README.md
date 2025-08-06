@@ -70,8 +70,8 @@
 <code></code>
 
 
-### :octacat: My Stats
 
+### :octocat: My stats
 
 
 
@@ -85,6 +85,5 @@
 <p>
   <a href="https://www.linkedin.com/in/felixmwendwa/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedIn"/></a>
   <a href="https://github.com/Felo-14"><img src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" alt="github"/></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000" alt="mail"/></a>
 
 </p>
