@@ -15,7 +15,7 @@
     width="24px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
 </a>
 
-<a href="[![email]](mailto:felixmwendwa014@gmail.com) ">
+<a href="felixmwendwa014@gmail.com">
   <img align="left" alt="Felix's Email"
     width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
 </a> 
