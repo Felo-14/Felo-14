@@ -15,7 +15,7 @@
     width="24px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
 </a>
 
-<a href="https://github.com/Felo-14">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
   <img align="left" alt="Felix's Email"
     width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
 </a>
@@ -48,11 +48,11 @@
 </a>
 
 <a>
-  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000">
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000">
 </a>
 
 <a>
-  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000">
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000">
 </a>
 
 <a>
@@ -66,3 +66,17 @@
 <a>
   <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
 </a>
+
+
+
+
+
+### Get in touch
+<p>
+  <a href="https://www.linkedin.com/in/felixmwendwa/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedIn"/></a>
+
+  <a href="https://github.com/Felo-14"><img src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" alt="github"/></a>
+
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+
+</p>
