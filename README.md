@@ -4,7 +4,7 @@
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
 
-### **Languages and Tools:**
+### **Languages and Tools**
 <a>
   <img align="left"width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a>
@@ -49,11 +49,7 @@
 <br/>
 <br/>
 
-### :octocat: My stats
-
-
-
-
+### 📊 Github Stats
 
 [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
 
