@@ -1,6 +1,6 @@
 ### Hi, I'm Felix Mwendwa 👋
 
-🚀 Data Scientist | Data Analyst | ML
+🚀 Data Scientist
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
 
@@ -61,7 +61,8 @@
 
 <br/>
 
-![](https://felix-streak-stats.vercel.app/?user=Felo-14) 
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=radical)
 
 
 ### Get in touch
