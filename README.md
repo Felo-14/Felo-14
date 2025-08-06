@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Felix+Mwendwa!+;Welcome+to+my+digital+playground!+🙂&align=left&size=25&color=e5c07b">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Felix!+;Welcome+to+my+digital+playground!+🙂&align=left&size=25&color=e5c07b">
 </h1>
 
 🚀 Data Scientist | Data Analyst | Business & IT Grad   
