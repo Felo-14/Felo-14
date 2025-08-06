@@ -3,7 +3,7 @@
 🚀 Data Scientist  
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
-📬 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+📬 Reach me: [LinkedIn](https://www.linkedin.com/in/felixmwendwa/) | [Portfolio](https://yourportfolio.com)
 
 
 <a href="https://www.linkedin.com/in/felixmwendwa/">
