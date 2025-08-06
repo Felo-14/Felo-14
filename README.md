@@ -1,8 +1,10 @@
-### Hi 👋, I'm Felix Mwendwa 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋🏽;I'm+Felix+Mwendwa!+![alt text](image.png);Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
 
 🚀 Data Scientist | Data Analyst | Business & IT Grad   
 🔍 Passionate about turning data into decisions   
-🌱 Currently learning: Deep Learning & NLP    
+🌱 Currently learning: NLP & Deep Learning    
 
 ### **Languages and Tools**
 <a>
