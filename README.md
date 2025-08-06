@@ -40,5 +40,5 @@
 </a>
 
 <a>
-  <img align="left"width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png">
+  <img align="left"width="28px" src="topics/jupyter-notebook/jupyter-notebook.png">
 </a>
