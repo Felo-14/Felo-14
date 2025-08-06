@@ -1,4 +1,4 @@
-### Hi, I'm Felix Mwendwa 👋
+### Hi 👋, I'm Felix Mwendwa 
 
 🚀 Data Scientist
 🔍 Passionate about turning data into decisions   
@@ -57,7 +57,7 @@
 
 
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=radical)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
