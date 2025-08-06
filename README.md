@@ -42,3 +42,27 @@
 <a>
   <img align="left"width="28px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png">
 </a>
+
+<a>
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000">
+</a>
+
+<a>
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000">
+</a>
+
+<a>
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000">
+</a>
+
+<a>
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000">
+</a>
+
+<a>
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000">
+</a>
+
+<a>
+  <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
+</a>
