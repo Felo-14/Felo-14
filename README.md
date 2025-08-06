@@ -63,7 +63,7 @@
 <p>
   <a href="https://www.linkedin.com/in/felixmwendwa/">
   <img align="left" alt="Felix's LinkedIn"
-    width="35px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+    width="65px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
   </a>
 
   <a href="https://github.com/Felo-14">
@@ -73,7 +73,7 @@
 
   <a href="mailto:felixmwendwa014@gmail.com">
   <img align="left" alt="Felix's Email"
-    width="35px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+    width="65px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
   </a> 
 
 </p>
