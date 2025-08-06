@@ -59,23 +59,26 @@
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
 
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Felo-14) 
 
 
 ### Get in touch
 <p>
   <a href="https://www.linkedin.com/in/felixmwendwa/">
   <img align="left" alt="Felix's LinkedIn"
-    width="65px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+    width="60px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
   </a>
 
   <a href="https://github.com/Felo-14">
   <img align="left" alt="Felix's GitHub"
-    width="65px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+    width="60px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
   </a>
 
   <a href="mailto:felixmwendwa014@gmail.com">
   <img align="left" alt="Felix's Email"
-    width="65px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+    width="60px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
   </a> 
 
 </p>
