@@ -67,15 +67,9 @@
   <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
 </a>
 
-<code></code>
-
 
 
 ### :octocat: My stats
-
-
-
-
 [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
 
 
