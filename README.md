@@ -3,14 +3,34 @@
 🚀 Data Scientist  
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
-📬 Reach me: [LinkedIn](https://www.linkedin.com/in/felixmwendwa/) | [Portfolio](https://yourportfolio.com)
 
 
 <a href="https://www.linkedin.com/in/felixmwendwa/">
   <img align="left" alt="Felix's LinkedIn"
-    width="22px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+    width="24px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
 </a>
+
 <a href="https://github.com/Felo-14">
   <img align="left" alt="Felix's GitHub"
-    width="22px" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000">
+    width="24px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
 </a>
+
+<a href="https://github.com/Felo-14">
+  <img align="left" alt="Felix's Email"
+    width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+</a>
+
+<br/>
+<br/>
+
+**Languages and Tools:**
+
+
+<code><img width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+<code><img width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<code><img width="28" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png
+"></code>
