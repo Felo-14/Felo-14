@@ -69,6 +69,12 @@
 
 
 
+### :octacat: My Stats
+
+
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
+
+
 
 
 ### Get in touch
