@@ -1,10 +1,8 @@
 ### Hi 👋, I'm Felix Mwendwa 
 
-🚀 Data Scientist
+🚀 Data Scientist    
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
-
-<br/>
 
 ### **Languages and Tools:**
 <a>
@@ -57,12 +55,12 @@
 
 
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=radical)](https://github.com/Felo-14/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=tokyonight)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=radical)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=tokyonight)
 
 
 ### Get in touch
