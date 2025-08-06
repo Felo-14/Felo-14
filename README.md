@@ -27,13 +27,18 @@
 
 
 <a>
-  <img align="left"width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img align="left"width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+</a>
+
+<a>
+  <img align="left"width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 </a>
 
 
-<code><img width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<a>
+  <img align="left"width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</a>
 
-<code><img width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<code><img width="28" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png
-"></code>
+<a>
+  <img align="left"width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png">
+</a>
