@@ -57,11 +57,11 @@
 
 
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Felo-14) 
+![](https://felix-streak-stats.vercel.app/?user=Felo-14) 
 
 
 ### Get in touch
