@@ -55,12 +55,12 @@
 
 
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&custom_title=Felix's GitHub Stats&theme=default&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&icon_color=1E40AF)](https://github.com/Felo-14/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=default&background=0D1117&ring=1E3A8A&fire=1E40AF&currStreakLabel=1E3A8A&sideNums=FFFFFF&sideLabels=1E3A8A&dates=FFFFFF)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=onedark)
 
 
 ### Get in touch
