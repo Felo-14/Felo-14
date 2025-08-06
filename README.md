@@ -1,6 +1,6 @@
 ### Hi, I'm Felix Mwendwa 👋
 
-🚀 Data Scientist | Data Analyst | ML | BBIT Grad
+🚀 Data Scientist | Data Analyst | ML
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
 
@@ -58,6 +58,8 @@
 
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14)](https://github.com/Felo-14/github-readme-stats)
+
+
 
 ### Get in touch
 <p>
