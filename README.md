@@ -55,12 +55,12 @@
 
 
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=blue)](https://github.com/Felo-14/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=turquoise)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=blue)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=turquoise)
 
 
 ### Get in touch
