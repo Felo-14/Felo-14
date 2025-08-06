@@ -4,23 +4,6 @@
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
 
-
-<a href="https://www.linkedin.com/in/felixmwendwa/">
-  <img align="left" alt="Felix's LinkedIn"
-    width="24px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
-</a>
-
-<a href="https://github.com/Felo-14">
-  <img align="left" alt="Felix's GitHub"
-    width="24px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
-</a>
-
-<a href="mailto:felixmwendwa014@gmail.com">
-  <img align="left" alt="Felix's Email"
-    width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
-</a> 
-
-
 <br/>
 <br/>
 
@@ -69,12 +52,25 @@
   <img align="left"width="28px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
 </a>
 
-
+<br/>
+<br/>
 
 
 ### Get in touch
 <p>
-  <a href="https://www.linkedin.com/in/felixmwendwa/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedIn"/></a>
-  <a href="https://github.com/Felo-14"><img src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/felixmwendwa/">
+  <img align="left" alt="Felix's LinkedIn"
+    width="24px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+  </a>
+
+  <a href="https://github.com/Felo-14">
+  <img align="left" alt="Felix's GitHub"
+    width="24px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+  </a>
+
+  <a href="mailto:felixmwendwa014@gmail.com">
+  <img align="left" alt="Felix's Email"
+    width="24px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+  </a> 
 
 </p>
