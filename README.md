@@ -60,7 +60,7 @@
 <br/>
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=bleu)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=blue)
 
 
 ### Get in touch
