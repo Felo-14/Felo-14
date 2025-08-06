@@ -63,17 +63,17 @@
 <p>
   <a href="https://www.linkedin.com/in/felixmwendwa/">
   <img align="left" alt="Felix's LinkedIn"
-    width="60px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+    width="50px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
   </a>
 
   <a href="https://github.com/Felo-14">
   <img align="left" alt="Felix's GitHub"
-    width="60px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+    width="50px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
   </a>
 
   <a href="mailto:felixmwendwa014@gmail.com">
   <img align="left" alt="Felix's Email"
-    width="60px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+    width="50px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
   </a> 
 
 </p>
