@@ -4,6 +4,7 @@
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
 
+<br/>
 
 ### **Languages and Tools:**
 <a>
@@ -67,7 +68,7 @@
 
   <a href="https://github.com/Felo-14">
   <img align="left" alt="Felix's GitHub"
-    width="35px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+    width="65px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
   </a>
 
   <a href="mailto:felixmwendwa014@gmail.com">
