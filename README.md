@@ -51,7 +51,7 @@
 
 ### 📊 Github Stats
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Felo-14&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
 
 <br/>
 
@@ -59,7 +59,7 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Felo-14&theme=onedark)
 
 
-### Get in touch
+### 📫 Let’s Connect
 <p>
   <a href="https://www.linkedin.com/in/felixmwendwa/">
   <img align="left" alt="Felix's LinkedIn"
@@ -77,3 +77,10 @@
   </a> 
 
 </p>
+
+
+## 📫 Let’s Connect
+
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: felixmwendwa014@gmail.com
