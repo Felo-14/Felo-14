@@ -1,10 +1,9 @@
 ### Hi, I'm Felix Mwendwa 👋
 
-🚀 Data Scientist | Data Analyst | ML | Business & Information Technology Grad
+🚀 Data Scientist | Data Analyst | ML | BBIT Grad
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: Deep Learning & NLP    
 
-<>
 
 ### **Languages and Tools:**
 <a>
