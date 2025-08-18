@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Felix+Mwendwa!;Nice+to+meet+you!+🙂&center=true&size=30&color=e5c07b">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I+am+Felix+Mwendwa!;Nice+to+meet+you!+🙂;&center=true&size=30&color=e5c07b">
 </h1>
 
 🚀 Data Scientist | Data Analyst | Business & IT Grad   
@@ -54,7 +54,7 @@
 ### 📊 Github Stats
 
 
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark)
+<!-- ![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark) -->
 
 <br/>
 
