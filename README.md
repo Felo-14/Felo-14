@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Felix+Mwendwa!;Nice+to+meet+you!+🙂;&center=true&size=30&color=e5c07b">
 </h1>
 
-🚀 Data Scientist | Data Analyst | Business & IT Grad   
+🚀 Data Scientist | Data Analyst | BIT Grad   
 🔍 Passionate about turning data into decisions   
 🌱 Currently learning: NLP & Deep Learning    
 
