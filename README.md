@@ -46,7 +46,7 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&langs_count=6&theme=onedark)](https://github.com/Felo-14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&langs_count=6&theme=onedark)](https://github.com/Felo-14)
 
 
 
