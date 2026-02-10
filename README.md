@@ -38,9 +38,9 @@
 <br/>
 <br/>
 
-### 📊 Github Stats
-
 <div align="center">
+
+### 📊 Github Stats
 
 [![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
