@@ -41,12 +41,14 @@
 ### 📊 Github Stats
 
 
-<!-- ![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark) -->
+![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&theme=monokai)](https://git.io/streak-stats)
 
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&langs_count=6&theme=onedark)](https://github.com/Felo-14)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&langs_count=6&theme=onedark)](https://github.com/Felo-14/github-readme-stats) -->
 
 
 
