@@ -44,6 +44,12 @@
 
 <br/>
 
+ <div>      
+ <img height="200" width="490" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&show_icons=true&theme=gruvbox" alt="Felix's GitHub Stats"/>
+  <img height="200" width="490" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact" alt="Languages"/>
+  
+
+ </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&langs_count=6&theme=onedark)](https://github.com/Felo-14/github-readme-stats) -->
 
