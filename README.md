@@ -7,7 +7,9 @@
 - 🌱 Currently learning: NLP & Deep Learning.
 - 👥 I'm open to collaborating and networking.
 
-### 🚀 **Skills & Tools**
+<br>
+
+### 🚀**Skills & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
@@ -32,6 +34,7 @@
 
 [![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
+
 [![Felix's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark)](https://git.io/streak-stats)
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&theme=onedark&hide_border=true)](https://git.io/streak-stats) -->
@@ -40,10 +43,19 @@
 
 ### 📫 Let’s Connect
 <p>
-  <a href="https://www.linkedin.com/in/felixmwendwa/"><img align="left" alt="Felix's LinkedIn"width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></a>
+  <a href="https://www.linkedin.com/in/felixmwendwa/">
+  <img align="left" alt="Felix's LinkedIn"
+    width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+  </a>
 
-  <a href="https://github.com/Felo-14"><img align="left" alt="Felix's GitHub"width="40px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000"></a>
+  <a href="https://github.com/Felo-14">
+  <img align="left" alt="Felix's GitHub"
+    width="40px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
+  </a>
 
-  <a href="mailto:felixmwendwa014@gmail.com"><img align="left" alt="Felix's Email"width="40px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000"></a> 
+  <a href="mailto:felixmwendwa014@gmail.com">
+  <img align="left" alt="Felix's Email"
+    width="40px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
+  </a> 
 
 </p>
