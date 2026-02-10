@@ -18,7 +18,7 @@
 <a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"></a>
 <a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"></a>
 <a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"></a>
-
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 <br/>
 <br/>
