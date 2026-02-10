@@ -30,10 +30,10 @@
 
 ### 📊 Github Stats
 
-[![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&show_icons=true&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14=true&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Felix's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![Felix's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&theme=onedark&hide_border=true)](https://git.io/streak-stats) -->
 
