@@ -26,9 +26,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 
-<br/>
-<br/>
-
 ### 📊 Github Stats
 
 [![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&theme=onedark&hide_border=true)](https://git.io/streak-stats)
