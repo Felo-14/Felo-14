@@ -44,7 +44,7 @@
 
 [![Felix's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact)](https://git.io/streak-stats)
 
  <!-- <img height="200" width="490" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark" alt="Felix's GitHub Stats"/> -->
   <!-- <img height="200" width="490" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact"/> -->
