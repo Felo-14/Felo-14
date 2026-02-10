@@ -7,17 +7,7 @@
 - 🌱 Currently learning: NLP & Deep Learning.
 - 👥 I'm open to collaborating and networking.
 
-### **Tech Stack**
-<!-- <a href="#"><img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href="#"><img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
-<a href="#"><img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
-<a href="#"><img align="left" width="28px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png"></a>
-<a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"></a>
-<a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"></a>
-<a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"></a>
-<a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"></a>
-<a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"></a>
-<a href="#"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"></a> -->
+### 🚀 **Skills & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
@@ -38,37 +28,22 @@
 <br/>
 <br/>
 
-<div align="center">
-
 ### 📊 Github Stats
 
 [![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
 
 [![Felix's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark)](https://git.io/streak-stats)
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felo-14&layout=compact&theme=onedark&hide_border=true)](https://git.io/streak-stats) -->
 
-</div>
-
 <br/>
-
 
 ### 📫 Let’s Connect
 <p>
-  <a href="https://www.linkedin.com/in/felixmwendwa/">
-  <img align="left" alt="Felix's LinkedIn"
-    width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
-  </a>
+  <a href="https://www.linkedin.com/in/felixmwendwa/"><img align="left" alt="Felix's LinkedIn"width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></a>
 
-  <a href="https://github.com/Felo-14">
-  <img align="left" alt="Felix's GitHub"
-    width="40px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000">
-  </a>
+  <a href="https://github.com/Felo-14"><img align="left" alt="Felix's GitHub"width="40px" src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000"></a>
 
-  <a href="mailto:felixmwendwa014@gmail.com">
-  <img align="left" alt="Felix's Email"
-    width="40px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000">
-  </a> 
+  <a href="mailto:felixmwendwa014@gmail.com"><img align="left" alt="Felix's Email"width="40px" src="https://img.icons8.com/?size=100&id=mXcvtsj8e1Ug&format=png&color=000000"></a> 
 
 </p>
