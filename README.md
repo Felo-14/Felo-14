@@ -7,7 +7,6 @@
 - 🌱 Currently learning: NLP & Deep Learning.
 - 👥 I'm open to collaborating and networking.
 
-<br>
 
 ### 🚀**Skills & Tools**
 
