@@ -40,10 +40,7 @@
 
 ### 📊 Github Stats
 
-
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felo-14&show_icons=true&theme=onedark&count_private=true)
-
-[![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&theme=onedark)](https://git.io/streak-stats)
+[![Felix's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Felo-14&show_icons=tru&theme=onedark)](https://git.io/streak-stats)
 
 <br/>
 
