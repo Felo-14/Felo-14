@@ -7,6 +7,7 @@
 - 🌱 Currently learning: NLP & Deep Learning.
 - 👥 I'm open to collaborating and networking.
 
+<br>
 
 ### 🚀**Skills & Tools**
 
@@ -25,6 +26,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
+<br>
 
 ### 📊 Github Stats
 
